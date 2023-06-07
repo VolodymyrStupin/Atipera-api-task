@@ -21,7 +21,7 @@ Project is created with:
 To run this project, first install it locally using gh:
 
 ```
-$ gh repo clone VolodymyrStupin/Car-serwice-and-wash-with-angular-test
+$ gh repo clone VolodymyrStupin/Atipera-api-task
 ```
 
 next navigate on the project files to com.stupin do a right-click on AtiperaApiTaskApplication.java and choose "Run 'AtiperaApiTaskApplication'" 
